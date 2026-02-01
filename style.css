@@ -20,7 +20,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url('../images/ced-morgane-ava.jpg');
+  background-image: url('../ced-morgane-ava.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -101,4 +101,5 @@ body {
   outline: 2px solid rgba(255, 255, 255, 0.6);
   outline-offset: 4px;
 }
+
 
